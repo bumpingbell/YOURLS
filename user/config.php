@@ -21,7 +21,7 @@ define( 'YOURLS_DB_NAME', 'SFURL_DATA' );
 
 /** MySQL hostname.
  ** If using a non standard port, specify it like 'hostname:port', eg. 'localhost:9999' or '127.0.0.1:666' */
-define( 'YOURLS_DB_HOST', '10.129.137.210' );
+define( 'YOURLS_DB_HOST', '10.128.148.12' );
 
 /** MySQL tables prefix */
 define( 'YOURLS_DB_PREFIX', 'yourls_' );
