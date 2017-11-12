@@ -21,7 +21,7 @@ define( 'YOURLS_DB_NAME', 'SFURL_DATA' );
 
 /** MySQL hostname.
  ** If using a non standard port, specify it like 'hostname:port', eg. 'localhost:9999' or '127.0.0.1:666' */
-define( 'YOURLS_DB_HOST', '10.128.148.12' );
+define( 'YOURLS_DB_HOST', '10.129.10.128' );
 
 /** MySQL tables prefix */
 define( 'YOURLS_DB_PREFIX', 'yourls_' );
@@ -60,7 +60,7 @@ define( 'YOURLS_COOKIEKEY', 'modify this text with something random' );
  ** YOURLS will auto encrypt plain text passwords in this file
  ** Read http://yourls.org/userpassword for more information */
 $yourls_user_passwords = array(
-	'bumpingbell' => 'Hi4u3pn925',
+	'bumpingbell' => '2Bumnom4',
 	// 'username2' => 'password2',
 	// You can have one or more 'login'=>'password' lines
 	);
